@@ -4,6 +4,8 @@ import App from './App';
 
 import './services/firebase';
 
+import './styles/global.scss';
+
 //O método render tem como função exibir alguma coisa dentro do html
 ReactDOM.render(
   <React.StrictMode>
@@ -37,6 +39,6 @@ e coloca dentro dele o
   XML significa linguagem de marcação eXtensible.
   O XML foi projetado para armazenar e transportar dados.
   O XML foi projetado para ser tanto ser humano quanto legível por máquina.
-  Link: https://www.w3schools.com/xml/xml_whatis.asp para mais informações.
+  Link: https://www.w3schools.com/xml/xml_whatis.asp
 
 */
