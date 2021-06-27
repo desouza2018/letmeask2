@@ -37,6 +37,6 @@ e coloca dentro dele o
   XML significa linguagem de marcação eXtensible.
   O XML foi projetado para armazenar e transportar dados.
   O XML foi projetado para ser tanto ser humano quanto legível por máquina.
-  Link: https://www.w3schools.com/xml/xml_whatis.asp
+  Link: https://www.w3schools.com/xml/xml_whatis.asp para mais informações.
 
 */
